@@ -20,4 +20,4 @@ echo 'src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-pa
 echo 'src-git qmodem https://github.com/FUjr/QModem.git;main' >>feeds.conf.default
 echo 'src-git nikki https://github.com/nikkinikki-org/OpenWrt-nikki.git;main' >>feeds.conf.default
 echo 'src-git fancontrol https://github.com/rockjake/luci-app-fancontrol.git' >>feeds.conf.default
-
+echo 'src-git istore https://github.com/linkease/istore;main' >>feeds.conf.default
